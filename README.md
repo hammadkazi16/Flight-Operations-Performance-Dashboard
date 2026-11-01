@@ -4,7 +4,7 @@ An interactive flight operations dashboard built using Microsoft Power BI to exp
 
 ## Dashboard Preview
 
-![Flight Operations Dashboard](https://github.com/hammadkazi16/Flight-Operations-Performance-Dashboard/raw/main/Screenshot%202026-11-01%20124042.png)
+![Flight Operations Dashboard](https://github.com/hammadkazi16/Flight-Operations-Performance-Dashboard/raw/main/Screenshot%2026-11-01%130809.png)
 
 ## Project Overview
 
